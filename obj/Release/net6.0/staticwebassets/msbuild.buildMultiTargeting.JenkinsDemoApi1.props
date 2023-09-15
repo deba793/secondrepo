@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JenkinsDemoApi1.props" />
+</Project>
